@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Home Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to ILCDB Website</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="trainingoffers.html">TrainingsOffers</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="careers.html">Careers</a></li>
+        </ul>
+    </nav>
+    <main>
+        <p>Training arm of Department of Information and Communication Technology.</p>
+		
+		<a href="bus.jpg"> MY GALLERY </a>
+    </main>
+    <footer>
+        <p>&copy; ILCDB Website</p>
+    </footer>
+</body>
+</html>
